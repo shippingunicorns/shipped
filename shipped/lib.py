@@ -11,7 +11,7 @@ pd.set_option('display.width', 200)
 
 def try_me():
     print('nice try')
-
+    return 100
 
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
